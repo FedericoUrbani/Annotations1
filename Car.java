@@ -1,3 +1,5 @@
+
+
 public class Car {
 
 String modelName;
@@ -7,6 +9,7 @@ String mileage;
         this.modelName = modelName;
         this.mileage = mileage;
     }
+
 
     @Deprecated
     public void printCarDetails(){
